@@ -66,8 +66,8 @@ What is **Python**?
 You will learn
 
 + how to feed a python
++ how to babysit a python
 + how to train a python
-+ how to experiment with a python 
 
 
 ![bg right](https://www.yenersway.com/wp-content/uploads/2021/03/DSC_8033.jpg)
