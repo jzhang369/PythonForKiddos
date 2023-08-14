@@ -87,7 +87,7 @@ Ask your parents to buy
 ---
 # By The End of Fall 2023
 
-We will be able to ......
+You will be able to cooler than your friends who have cats or dogs as their pets. 
 
 ---
 ![bg](https://i.dailymail.co.uk/i/pix/2016/02/12/12/311F2FB700000578-3443976-image-m-56_1455279538438.jpg)
