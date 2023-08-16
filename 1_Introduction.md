@@ -238,4 +238,4 @@ You will be, hopefully,
 ---
 # Course Rules
 
-+ Your attendence, course participation, and submission of assignments are encouraged but not required or measured - it's your business.  
++ Your attendence, course participation, and submission of assignments are encouraged but not required or measured - it's your own business.  
