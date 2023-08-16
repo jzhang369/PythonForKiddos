@@ -94,3 +94,149 @@ You will be able to cooler than your friends who have cats or dogs as their pets
 
 ---
 # Questions?
+---
+
+# Fine... Let's Star Over!
+
+
+---
+
+# Python
+
+What is **Python**?
+
++ A programming language among many
+  + C/C++, Java, Javascript, Go, and etc.
++ But Python is considered as 
+  + being popular
+  + being easier
+
+![bg right:30% width:400px](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png)
+
+
+---
+
+# Why Programming?
+
+What brings you here? 
+
+![bg right:40%](https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX12364889.jpg)
+
+---
+
+
+# Why Programming?
+
++ Getting Richer (Fortune)
++ Getting Faster (Automation)
++ Getting Smarter (Intelligence)
+
+
+![bg right:40% width:500px](https://d3mm2s9r15iqcv.cloudfront.net/en/wp-content/uploads/2022/07/Software-engineer-salaries-by-US-City.png)
+
+
+---
+# Why Programming?
+
++ Getting Richer (Fortune)
++ Getting Faster (Automation)
++ Getting Smarter (Intelligence)
+
+
+![bg right:40% width:500px](https://pbs.twimg.com/media/EhBssk7XcAUIuSc.jpg)
+
+
+---
+# Why Programming?
+
++ Getting Richer (Fortune)
++ Getting Faster (Automation)
++ Getting Smarter (Intelligence)
+
+
+![bg right:40% width:500px](https://miro.medium.com/v2/resize:fit:720/0*W2lJy4pYnxBVdKEK)
+
+
+---
+# Why Python?
+
++ High-Level: so you do not need to worry too much about the underlying details. 
++ Readiable: so you can better undersand.
++ Support: avaiable packages + large developer communities. 
+
+
+---
+# This Course
+
+You will learn
+
++ Python Syntax
++ Variables
++ Data Types
++ Control Structures
++ Functions
++ Math Applicaitons
+
+
+![bg right](https://www.yenersway.com/wp-content/uploads/2021/03/DSC_8033.jpg)
+
+
+---
+# This Course
+
++ goes very slow
++ needs your attention
++ requires your efforts
+
+
+![bg right:50% width:600](https://thesaurus.plus/img/synonyms/846/hardworking.png)
+
+---
+
+# Course Needs
+
+You are in the best field!
++ ~$0 investment
++ $,,, of potential returns
+  
+Needs:
++ A laptop
++ A tablet with a keyboard
+
+![bg right](https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/1200x800/filters:focal(1035x1245:1036x1246):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/10659881/wjoel_180415_2432_OPLC_003.jpg)
+
+
+---
+# Course Needs
+
++ Make sure you can access this link:
+  + https://www.online-python.com/ 
+
+---
+# By The End of Fall 2023
+
+You will be, hopefully, 
++ more knowledge about programming,
++ more confident about programming,
++ more engaged in programming.  
+
+![bg right:35%](https://www.rankred.com/wp-content/uploads/2019/07/John-McCarthy.jpg)
+
+---
+# Questions?
+
+---
+# Course Rules
+
++ No early leave unless you are picked by your parent. 
++ No talking unless you are asked to by the instructor or the TA. 
++ 
+
+![bg right:30%](https://deliberatedevelopmentdotorg.files.wordpress.com/2016/03/i-dont-care.jpg)
+
+---
+# Course Rules
+
++ Your attendence, course participation, and submission of assignments are encouraged but not required or measured - it's your business.  
+
+![bg right:30%](https://deliberatedevelopmentdotorg.files.wordpress.com/2016/03/i-dont-care.jpg)
