@@ -228,15 +228,14 @@ You will be, hopefully,
 ---
 # Course Rules
 
++ No Drink
++ No Food
 + No early leave unless you are picked by your parent. 
 + No talking unless you are asked to by the instructor or the TA. 
-+ 
 
-![bg right:30%](https://deliberatedevelopmentdotorg.files.wordpress.com/2016/03/i-dont-care.jpg)
+
 
 ---
 # Course Rules
 
 + Your attendence, course participation, and submission of assignments are encouraged but not required or measured - it's your business.  
-
-![bg right:30%](https://deliberatedevelopmentdotorg.files.wordpress.com/2016/03/i-dont-care.jpg)
