@@ -96,8 +96,11 @@ You will be able to cooler than your friends who have cats or dogs as their pets
 # Questions?
 ---
 
-# Fine... Let's Star Over!
+# So, 
 
+# you are not an animal lover, are you? 
+
+![bg right:50% width:500px](https://thumbs.dreamstime.com/z/snaked-illustration-cartoon-snake-wrapped-tightly-around-scared-man-111766326.jpg?w=576)
 
 ---
 
@@ -228,14 +231,29 @@ You will be, hopefully,
 ---
 # Course Rules
 
-+ No Drink
-+ No Food
++ No drink.
++ No food.
 + No early leave unless you are picked by your parent. 
-+ No talking unless you are asked to by the instructor or the TA. 
++ No talk unless you are asked to by the instructor or the TA. 
 
 
+![bg right width:500px](https://t4.ftcdn.net/jpg/04/37/40/83/240_F_437408387_ha40bZPskMB5uanZlo9J2toHlEPF6Yae.jpg)
 
 ---
 # Course Rules
 
-+ Your attendence, course participation, and submission of assignments are encouraged but not required or measured - it's your own business.  
++ Keep everything in the classroom, such as desks, chairs, whiteboards, and writings on them, exactly the same as you enter the classroom. 
++ Your attendence, course participation, and submission of assignments are encouraged but not required or measured - ***it's your own business***.  
+
+![bg right:40%](https://www.sqlservercentral.com/wp-content/uploads/legacy/b257170080c03b71bd01d9dd33dce553a40f9d53/5632.jpg)
+
+---
+# Introduce Yourself
+
++ Name
++ Grade
++ Your programming background
++ Why are you here? 
+
+---
+# Questions?
