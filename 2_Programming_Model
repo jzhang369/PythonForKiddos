@@ -1,0 +1,118 @@
+---
+marp: true
+author: Junjie Zhang
+theme: gaia
+title: Introduction
+paginate: true
+---
+
+# Picturing Programming
+
++ Dr. Junjie Zhang
++ Huaxia Chinese School at Mason, OH
+
+---
+
+# Model
+
++ A tirelessly robot (i.e., your computer) who
+  + follows your orders (i.e., your program)
+  + eats data (i.e., input)
+  + displays data (i.e., output)
+
++ What, when, and how data is eatten or displayed are decided by your orders
+
+![bg right:40% width:400px](https://2.bp.blogspot.com/-cj3ekOnjfaE/VwXYNBt4k5I/AAAAAAAAfII/RRcr8108wb81rgI8MysYlm4LXUDgzU0lg/s1600/input%2Boutput.png)
+
+---
+
+# Robots
+
+Robots speak different languages as we do for English, Chinese, Spanish, and etc., 
+
++ Python
++ C/C++
++ Javascript
++ ......
+
+And your program has to speak its language **correctly** so that the robot can understand. 
+
+---
+
+# Inputs
+
+Inputs are taken from
+
++ Terminal
++ Keyboard/Mouse
++ Camera
++ Microphone
++ ......
+
+---
+# Outputs
+
+Outputs are given through
+
++ Terminal as text/words
++ Speakers
++ Photos
++ Animations
++ .......
+---
+### Put Them Together Again
+
+---
+
+#### Put Them Into The Context of Our Programming Env
+
+
+
+---
+# A Few Examples
+
+```python
+print("Hello World!")
+```
+
+---
+# A Few Examples
+
+```python
+input("Write Something Here:")
+```
+
+---
+# A Few Examples
+
+```python
+msg = input("Write Something Here:")
+print(msg)
+```
+
+---
+# A Few Questions
++ Does a robot has to read something from the input?
++ Does a robot has to deliver something to the output? 
++ Does a robot has to read something first, process it, and then deliver the output?
+
+
+---
+# One More Thing Before We Proceed
+
+Can anyone tell me what is this symbol, "**=**" for?
+
+
+---
+# One More Thing Before We Proceed
+
+Can anyone tell me what is this symbol, "**=**" for?
+
++ In programming, "**=**" is for **assign**, not for **equal**
++ Copy the data from the right side to the left side
+
+So please get yourself comfortable with something like ```x=x+1```
+
+---
+# Questions? 
+
