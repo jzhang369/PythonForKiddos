@@ -219,14 +219,11 @@ Needs:
 # By The End of Fall 2023
 
 You will be, hopefully, 
-+ more knowledge about programming,
++ more informed about programming,
 + more confident about programming,
 + more engaged in programming.  
 
 ![bg right:35%](https://www.rankred.com/wp-content/uploads/2019/07/John-McCarthy.jpg)
-
----
-# Questions?
 
 ---
 # Course Rules
