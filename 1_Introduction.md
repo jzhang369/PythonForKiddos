@@ -125,6 +125,9 @@ What brings you here?
 
 ![bg right:40%](https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX12364889.jpg)
 
+
+[Check what these guys say about programming](https://www.youtube.com/watch?v=YPE2dO5sII0). 
+
 ---
 
 
