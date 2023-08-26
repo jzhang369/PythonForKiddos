@@ -69,21 +69,38 @@ Outputs are given through
 
 
 ---
-# A Few Examples
+# A Few Examples Of Output
 
 ```python
 print("Hello World!")
 ```
 
+```python
+print("5")
+```
+
+```python
+print(5)
+```
+
 ---
-# A Few Examples
+# A Few Examples Of Input
 
 ```python
 input("Write Something Here:")
 ```
 
+```python
+input()
+```
+
 ---
 # A Few Examples
+
+```python
+num = 1
+print(num)
+```
 
 ```python
 msg = input("Write Something Here:")
@@ -91,14 +108,7 @@ print(msg)
 ```
 
 ---
-# A Few Questions
-+ Does a robot has to read something from the input?
-+ Does a robot has to deliver something to the output? 
-+ Does a robot has to read something first, process it, and then deliver the output?
-
-
----
-# One More Thing Before We Proceed
+# Let's Revisit "**=**"
 
 Can anyone tell me what is this symbol, "**=**" for?
 
@@ -112,6 +122,14 @@ Can anyone tell me what is this symbol, "**=**" for?
 + Copy the data from the right side to the left side
 
 So please get yourself comfortable with something like ```x=x+1```
+
+---
+# A Program is like a command
+
++ Put that candy into the jar!
+  + Put (verb) the candy (one object) into the jar (a variable)
+
++ jar = candy 
 
 ---
 # Questions? 
