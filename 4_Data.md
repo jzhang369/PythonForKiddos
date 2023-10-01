@@ -152,3 +152,90 @@ z = str(3.0)  # z will be '3.0'
 # More Discussion
 + Boolean
 + String
+
+---
+# Boolean Values
+
+Question: What operations lead to boolean values?
+Answer: Many, but there are some commonly used ones. 
+
+">", "<", ">=", "<=", "=="
+
+---
+# Boolean Values
+
+```python
+result = 5 > 3
+#result = 5 < 3
+#result = 5 == 3
+print(type(result))
+print(result)
+```
+
+There will be more operators and functions that lead to boolean values. We will learn them as this course proceeds. 
+
+---
+### Logic Operators: Operators Using Boolean Values
+
+- not
+  - output = not input
+- and
+  - output = input1 and input2
+- or
+  - output = input1 and input2
+
+Typically, we expect input, input1, and input2 are with the boolean type. 
+
+---
+
+![bg](https://cdn-learn.adafruit.com/assets/assets/000/051/593/medium800/components_and-or-not_tables.png?1520357909)
+
+
+---
+## Logic Operators
+
+```python
+a = 3
+b = 4
+resutl1 = a > b
+result2 = (a > b) and (a < b)
+result3 = (a > b) or (a < b)
+result4 = not (a > b)
+result5 = (not (a > b)) and (a == b)
+result6 = not ((a > b) and (a == b))
+result7 = (not ((a > b) and (a == b))) or True
+result8 = (not ((a > b) and (a == b))) or False 
+```
+---
+# Strings
+
+You will use strings a lot to output the results
+
+```python
+a = "I "
+b = "Love "
+c = "Hate "
+d = "Cilantro"
+r1 = a + b + d
+r2 = a + c + d
+print(type(r1))
+print(r1)
+print(type(r2))
+print(r2)
+```
+
+---
+# Strings
+
+```python
+a = 5
+b = 6
+c = a + b
+r = "the result is " + c
+print(r)
+```
+
+How to fix it? 
+
+---
+# End
