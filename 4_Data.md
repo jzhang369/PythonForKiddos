@@ -186,9 +186,19 @@ There will be more operators and functions that lead to boolean values. We will 
 
 Typically, we expect input, input1, and input2 are with the boolean type. 
 
+
+---
+## Logic Operators
+
+Q = A and B
+Q = A or B
+Q = not A
+
 ---
 
 ![bg](https://cdn-learn.adafruit.com/assets/assets/000/051/593/medium800/components_and-or-not_tables.png?1520357909)
+
+
 
 
 ---
