@@ -231,3 +231,9 @@ Example:
 + 3 % 3 is 0, 
 + 9 % 3 is 0, 
 + 10 % 3 is 1.  
+
+---
+# while
+
+Quiz 4: decide whether a number is a prime number. 
+
