@@ -247,3 +247,14 @@ For example
 + num1 = 2
 + num2 = 10
 + return 2 + 3 + 4 + ... 10
+
+---
+# while
+
+Quiz 6: given two integers, adding all integers from the first one to the second one. 
+
+For example
+
++ num1 = 10
++ num2 = 2
++ return 10 + 9 + 8 + ... + 2
