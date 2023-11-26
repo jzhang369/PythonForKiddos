@@ -237,3 +237,13 @@ Example:
 
 Quiz 4: decide whether a number is a prime number. 
 
+---
+# while
+
+Quiz 5: given two integers, adding all integers from the first one to the second one. 
+
+For example
+
++ num1 = 2
++ num2 = 10
++ return 2 + 3 + 4 + ... 10
