@@ -13,6 +13,11 @@ paginate: true
 
 
 ---
+# A list variable
+
+![](https://www.keystonesafe.com/cdn/shop/products/lat4w44p-01.jpg?v=1697734565&width=550)
+
+---
 
 # List is a data type
  
